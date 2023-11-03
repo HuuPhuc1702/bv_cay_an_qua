@@ -1,0 +1,307 @@
+{
+  "project_info": {
+    "project_number": "140228928310",
+    "firebase_url": "https://loctroi-hospital.firebaseio.com",
+    "project_id": "loctroi-hospital",
+    "storage_bucket": "loctroi-hospital.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140228928310:android:f326aaa7a8c83ca17dc997",
+        "android_client_info": {
+          "package_name": "mcom.asia.bsanqua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140228928310-4aj575kahimrho51uqrcsqsm3fadcb2p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mcom.asia.bsanqua",
+            "certificate_hash": "549db13700485d19b5d9576b0c876e567dd2e1c0"
+          }
+        },
+        {
+          "client_id": "140228928310-dk3olr14subh75v16ntfka5onfle0ooq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mcom.asia.bsanqua",
+            "certificate_hash": "faf1070e3f0e424b0fb87a887beb2a989a9e48f4"
+          }
+        },
+        {
+          "client_id": "140228928310-gtuta2ovfvmchirj24n6jpv10eq4mq3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mcom.asia.bsanqua",
+            "certificate_hash": "c8cda18d1ca1926c1226460f7d2941cfe7e7bc45"
+          }
+        },
+        {
+          "client_id": "140228928310-nlgpdrpmdfggrqd3aqtov5ak3vv7jg1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mcom.asia.bsanqua",
+            "certificate_hash": "4ac15b484c533c73ebac67a92d4861f3745f1bd1"
+          }
+        },
+        {
+          "client_id": "140228928310-v92avtggimkq7elfqv2hd2oipaj05toh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mcom.asia.bsanqua",
+            "certificate_hash": "44cb1eb152b8f8b0638907557d69ec1a221ff3b6"
+          }
+        },
+        {
+          "client_id": "140228928310-vdf87cs2rr3qqu6fa14s0ffk26t1jdqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mcom.asia.bsanqua",
+            "certificate_hash": "bb2a5c2d33041ee74eeb49eabc2e16b97b572357"
+          }
+        },
+        {
+          "client_id": "140228928310-4smp26424ueab68rmrapu559h86d2h7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOT1ohnSQ1n_6nD6R-_ETQJ7nxspFhO7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140228928310-4smp26424ueab68rmrapu559h86d2h7c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "140228928310-59p6bnkmmdud23sseprdv4dp5c1ao58q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mcom.asia.nonggia"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140228928310:android:1937cf41e88f60387dc997",
+        "android_client_info": {
+          "package_name": "mcom.asia.bscanqua.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140228928310-id57tpt8a708kejeudgg0ceomj1151r0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mcom.asia.bscanqua.dev",
+            "certificate_hash": "cf37c8fee0288c1397be3552845ed275ffc823f5"
+          }
+        },
+        {
+          "client_id": "140228928310-s1s03ehdss4e24ke4hudm8ipnqr3q178.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mcom.asia.bscanqua.dev",
+            "certificate_hash": "4ac15b484c533c73ebac67a92d4861f3745f1bd1"
+          }
+        },
+        {
+          "client_id": "140228928310-4smp26424ueab68rmrapu559h86d2h7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOT1ohnSQ1n_6nD6R-_ETQJ7nxspFhO7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140228928310-4smp26424ueab68rmrapu559h86d2h7c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "140228928310-59p6bnkmmdud23sseprdv4dp5c1ao58q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mcom.asia.nonggia"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140228928310:android:092f018dff1176717dc997",
+        "android_client_info": {
+          "package_name": "mcom.asia.bvanqua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140228928310-3lmapub1o79asvq6or19oghluve5pbhk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mcom.asia.bvanqua",
+            "certificate_hash": "44cb1eb152b8f8b0638907557d69ec1a221ff3b6"
+          }
+        },
+        {
+          "client_id": "140228928310-6hfjm0567k5s5rfdqrfjg04qjddta96b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mcom.asia.bvanqua",
+            "certificate_hash": "faf1070e3f0e424b0fb87a887beb2a989a9e48f4"
+          }
+        },
+        {
+          "client_id": "140228928310-7e0kgm05jqcr0gpbqt4q2d61ritb7j6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mcom.asia.bvanqua",
+            "certificate_hash": "c8cda18d1ca1926c1226460f7d2941cfe7e7bc45"
+          }
+        },
+        {
+          "client_id": "140228928310-agpd6srsm55fm3r52iua45ouba6urk95.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mcom.asia.bvanqua",
+            "certificate_hash": "0c60b7c6b686bd5614ce522786d986f6a5222fab"
+          }
+        },
+        {
+          "client_id": "140228928310-co0s7cl7mc04ttngi956h11apshoq3cf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mcom.asia.bvanqua",
+            "certificate_hash": "4ac15b484c533c73ebac67a92d4861f3745f1bd1"
+          }
+        },
+        {
+          "client_id": "140228928310-hlbi527rjqnu2vig0l0j68fnask0lp41.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mcom.asia.bvanqua",
+            "certificate_hash": "bb2a5c2d33041ee74eeb49eabc2e16b97b572357"
+          }
+        },
+        {
+          "client_id": "140228928310-jm5bmrfjol72g2mra70k68nhr51t69ii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mcom.asia.bvanqua",
+            "certificate_hash": "cf37c8fee0288c1397be3552845ed275ffc823f5"
+          }
+        },
+        {
+          "client_id": "140228928310-kotr2bumiiqi0nerhppm6einl1vbhq5f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mcom.asia.bvanqua",
+            "certificate_hash": "a0475db80211e462edd2197d70459f6cba63fc8f"
+          }
+        },
+        {
+          "client_id": "140228928310-o8mqhiacdo1uinvt5htbpool44nn9627.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mcom.asia.bvanqua",
+            "certificate_hash": "549db13700485d19b5d9576b0c876e567dd2e1c0"
+          }
+        },
+        {
+          "client_id": "140228928310-4smp26424ueab68rmrapu559h86d2h7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOT1ohnSQ1n_6nD6R-_ETQJ7nxspFhO7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140228928310-4smp26424ueab68rmrapu559h86d2h7c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "140228928310-59p6bnkmmdud23sseprdv4dp5c1ao58q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mcom.asia.nonggia"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140228928310:android:b7e074e5b06a78cf7dc997",
+        "android_client_info": {
+          "package_name": "mcom.asia.bvcanqua.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140228928310-smmqhf40a5glp9v0cahjvk631efdce7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mcom.asia.bvcanqua.dev",
+            "certificate_hash": "4ac15b484c533c73ebac67a92d4861f3745f1bd1"
+          }
+        },
+        {
+          "client_id": "140228928310-vpltc8u9k8n3sept13knghnqe7n4q8lv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mcom.asia.bvcanqua.dev",
+            "certificate_hash": "cf37c8fee0288c1397be3552845ed275ffc823f5"
+          }
+        },
+        {
+          "client_id": "140228928310-4smp26424ueab68rmrapu559h86d2h7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOT1ohnSQ1n_6nD6R-_ETQJ7nxspFhO7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140228928310-4smp26424ueab68rmrapu559h86d2h7c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "140228928310-59p6bnkmmdud23sseprdv4dp5c1ao58q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mcom.asia.nonggia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

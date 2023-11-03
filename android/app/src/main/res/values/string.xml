@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- Theme applied to the Android Window while the process is starting when the OS's Dark Mode setting is off -->
+    <string name="GOOGLE_MAP_API_KEY">AIzaSyAc_n_RM1QB8822i-YunItzxoa2gb1hAOs</string>
+</resources>
